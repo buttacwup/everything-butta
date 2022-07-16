@@ -1,0 +1,58 @@
+---
+- Author: [[Tiago Forte]]
+- Full Title: Building a Second Brain
+- Category: #books
+- Readwise Tags: pkm
+---
+# Building a Second Brain
+
+![rw-book-cover](https://m.media-amazon.com/images/I/61J5g7zjC1L._SY160.jpg)
+
+## Highlights
+- It all begins with the simple act of writing things down. ([Location 40](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=40))
+- technology can enhance our cognitive abilities and accelerate us toward our goals far faster than we could ever achieve on our own. ([Location 55](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=55))
+- Those who learn how to leverage technology and master the flow of information through their lives will be empowered to accomplish anything they set their minds to. At the same time, those who continue to rely on their fragile biological brains will become ever more overwhelmed by the explosive growth in the complexity of our lives. ([Location 65](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=65))
+- I could either take responsibility for my own health and my own treatment from that day forward, or I would spend the rest of my life shuttling back and forth between doctors without ever finding resolution. ([Location 103](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=103))
+    - Note: this is where I am at.
+- It’s time to acknowledge that we can’t “use our head” to store everything we need to know and to outsource the job of remembering to intelligent machines. We have to recognize that the cognitive demands of modern life increase every year, but we’re still using the same brains as two hundred thousand years ago, ([Location 221](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=221))
+- Every bit of energy we spend straining to recall things is energy not spent doing the thinking that only humans can do: inventing new things, crafting stories, recognizing patterns, following our intuition, collaborating with others, investigating new subjects, making plans, testing theories. ([Location 224](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=224))
+- randomly scribbling down notes on pieces of paper, ([Location 256](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=256))
+    - Note: why do I still do this at all?
+- “Knowledge” can seem like a lofty concept reserved exclusively for scholars and academics, but at the most practical level, knowledge begins with the simple, time-honored practice of taking notes. ([Location 279](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=279))
+- Learning was treated as essentially disposable, with no intention of that knowledge being useful for the long term. ([Location 283](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=283))
+- a note is a “knowledge building block”—a discrete unit of information interpreted through your unique perspective and stored outside your head. ([Location 291](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=291))
+- a note could include a passage from a book or article that you were inspired by; a photo or image from the web with your annotations; or a bullet-point list of your meandering thoughts on a topic, ([Location 292](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=292))
+- if a piece of content has been interpreted through your lens, curated according to your taste, translated into your own words, or drawn from your life experience, and stored in a secure place, then it qualifies as a note. ([Location 295](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=295))
+- The time has come for us to realize the vision of technology’s early pioneers—that everyone should have an extended mind not just to remember more and be more productive, but to lead more fulfilling lives. ([Location 387](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=387))
+- Only when we declutter our brain of complex ideas can we think clearly and start to work with those ideas effectively. ([Location 428](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=428))
+- Our careers and businesses depend more than ever on our ability to advance a particular point of view and persuade others to adopt it as well.6 ([Location 475](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=475))
+- I’ve developed a simple, intuitive four-part method called “CODE”—Capture; Organize; Distill; Express. ([Location 543](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=543))
+- our goal should be to “capture” only the ideas and insights we think are truly noteworthy. ([Location 561](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=561))
+- the ideas that resonate are the ones that are most unusual, counterintuitive, interesting, or potentially useful. ([Location 568](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=568))
+- Consider new information in terms of its utility, asking, “How is this going to help me move forward one of my current projects?” ([Location 584](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=584))
+    - Note: think on this...can this drive me to action? with CTS or gaming?
+- Organizing for action gives you a sense of tremendous clarity, because you know that everything you’re keeping actually has a purpose. You know that it aligns with your goals and priorities. Instead of organizing being an obstacle to your productivity, it becomes a contributor to it. ([Location 587](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=587))
+- An article you read about gardening will give you an insight into growing your customer base. ([Location 591](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=591))
+    - Note: how many times have I thought something would be good in a game, do I capture those ideas?
+- essence. ([Location 596](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=596))
+    - Note: maybe my yaml should include essence instead of summary
+- Every idea has an “essence”: the heart and soul of what it is trying to communicate. It might take hundreds of pages and thousands of words to fully explain a complex insight, but there is always a way to convey the core message in just a sentence or two. ([Location 596](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=596))
+- It’s so easy to endlessly delay and postpone the experiences that would so enrich our lives. We think we’re not ready. ([Location 616](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=616))
+- I recommend you shift as much of your time and effort as possible from consuming to creating.V ([Location 620](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=620))
+- The meaning of a thought, insight, or memory often isn’t immediately clear. We need to write them down, revisit them, and view them from a different perspective in order to digest what they mean to us. ([Location 752](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=752))
+- Take a moment now to write down some of your own favorite problems. ([Location 830](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=830))
+- Even if you spend the twenty or thirty minutes it would take to consume it now, in the future you’ll just have to spend all that time reading it again, since you’ll have forgotten most of the details. ([Location 844](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=844))
+- The best curators are picky about what they allow into their collections, ([Location 853](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=853))
+- There is a way to evoke a sense of inspiration more regularly: keep a collection of inspiring quotes, photos, ideas, and stories. ([Location 865](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=865))
+- Instead of organizing ideas according to where they come from, I recommend organizing them according to where they are going—specifically, the outcomes that they can help you realize. ([Location 1309](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=1309))
+- Discoverability is an idea from information science that refers to “the degree to which a piece of content or information can be found in a search of a file, database, or other information system.” ([Location 1487](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=1487))
+- Discoverability is the element most often missing from people’s notes. It’s easy to save tons and tons of content, but turning it into a form that will be accessible in the future is another matter. To enhance the discoverability of your notes, we can turn to a simple habit you probably remember from school: highlighting the most important points. Highlighting is an activity that everyone understands, takes hardly any additional effort, and works in any app you might use. ([Location 1491](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=1491))
+- Distillation is at the very heart of all effective communication. The more important it is that your audience hear and take action on your message, the more distilled that message needs to be. ([Location 1507](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=1507))
+- Even in our daily conversations, the ability to be succinct without missing key details is what leads to exciting conversations that leave both people feeling enlivened. Distillation is at the heart of the communication that is so central to our friendships, our working relationships, and our leadership abilities. Notetaking gives you a way to deliberately practice the skill of distilling every day. ([Location 1716](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=1716))
+- by the time you sit down to make progress on something, all the work to gather and organize the source material needs to already be done. ([Location 2184](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=2184))
+- we only really improve when we standardize the way we do something. ([Location 2190](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=2190))
+- Through the simple acts of capturing ideas, organizing them into groups, distilling the best parts, and assembling them together to create value for others, we are practicing the basic moves of knowledge work in such a way that we can improve on them over time. ([Location 2193](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=2193))
+- The purpose of divergence is to generate new ideas, so the process is necessarily spontaneous, chaotic, and messy. You can’t fully plan or organize what you’re doing in divergence mode, and you shouldn’t try. This is the time to wander. ([Location 2212](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=2212))
+- I keep all my goals in a single digital note, sorted from short-term goals for the next year to long-term goals for years to come. ([Location 2588](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=2588))
+- Our knowledge is now our most important asset and the ability to deploy our attention our most valuable skill. ([Location 2782](https://readwise.io/to_kindle?action=open&asin=B09LVVN9L3&location=2782))
+    - Note: deploying attention is the key here. when talking about resonating with me and being the esence this might be both of those. i dont deploy my attention well. how can i change that?

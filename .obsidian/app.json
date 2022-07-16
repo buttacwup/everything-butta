@@ -1,0 +1,16 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": false,
+  "defaultViewMode": "source",
+  "foldHeading": false,
+  "foldIndent": false,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "z-assets",
+  "communityThemeSortOrder": "download",
+  "newLinkFormat": "shortest",
+  "showUnsupportedFiles": true
+}

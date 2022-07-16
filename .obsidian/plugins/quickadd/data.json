@@ -1,0 +1,20 @@
+{
+  "choices": [
+    {
+      "id": "4a621e14-2544-4f50-8fe6-eb8f9acb8db4",
+      "name": "Test",
+      "type": "Macro",
+      "command": false,
+      "macroId": null
+    }
+  ],
+  "macros": [
+    {
+      "name": "test",
+      "id": "2500e2eb-535c-4934-891d-614241d734d6",
+      "commands": [],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line"
+}

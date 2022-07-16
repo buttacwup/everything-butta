@@ -1,0 +1,39 @@
+{
+  "token": "EHdFiW0vXe16FQYlYjxOL1Q6zNVyvdxdkbgSLATJJUBC4oeWTO",
+  "readwiseDir": "Readwise",
+  "frequency": "0",
+  "triggerOnLoad": true,
+  "isSyncing": false,
+  "lastSyncFailed": false,
+  "lastSavedStatusID": 4737799,
+  "currentSyncStatusID": 0,
+  "refreshBooks": false,
+  "booksToRefresh": [
+    "16033694"
+  ],
+  "booksIDsMap": {
+    "Readwise/Books/Groundswell.md": "9226565",
+    "Readwise/Books/Wikinomics.md": "9226564",
+    "Readwise/Books/Enterprise 2.0.md": "9226563",
+    "Readwise/Books/Personal Learning Networks.md": "9226561",
+    "Readwise/Books/Ogre's Passing.md": "9226560",
+    "Readwise/Books/Getting Things Done.md": "9226558",
+    "Readwise/Books/Free.md": "9226557",
+    "Readwise/Books/The Checklist Manifesto.md": "9226556",
+    "Readwise/Books/The New Social Learning.md": "9226554",
+    "Readwise/Articles/How to Take Better Notes The 6 Best Note-Taking Systems.md": "9235509",
+    "Readwise/Articles/New Player’s Guide How to Make the Most of Session Zero.md": "9254952",
+    "Readwise/Articles/A Players’ Primary Responsibility in a Cypher System Game.md": "9352814",
+    "Readwise/Articles/Why Game Balance Doesn’t Matter….md": "9365468",
+    "Readwise/Articles/Passages Saved From Android.md": "15992805",
+    "Readwise/Books/Arbiter of Worlds.md": "16033690",
+    "Readwise/Books/How to Take Smart Notes.md": "16033689",
+    "Readwise/Books/Building a Second Brain.md": "16033688",
+    "Readwise/Tweets/Tweets From Koan Mandala.md": "16034886",
+    "Readwise/Tweets/Tweets From Lords of Knowledge.md": "16034887",
+    "Readwise/Articles/Do Not Let the Dice Fall Where They May - Monte Cook Games.md": "16044324",
+    "Readwise/Articles/Managing My Personal Knowledge Base.md": "16033694",
+    "Readwise/Articles/Non-Lazy DMs Use Obsidian for D&D.md": "16057304"
+  },
+  "reimportShowConfirmation": true
+}

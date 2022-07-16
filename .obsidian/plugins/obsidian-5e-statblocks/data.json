@@ -1,0 +1,55 @@
+{
+  "monsters": [],
+  "layouts": [
+    {
+      "name": "Cypher System",
+      "blocks": [
+        {
+          "type": "heading",
+          "id": "f849cae9ca98",
+          "properties": [
+            "Name"
+          ],
+          "fallback": "-",
+          "hasRule": true
+        },
+        {
+          "type": "property",
+          "id": "78fbb90b4aa9",
+          "properties": [
+            "level"
+          ],
+          "fallback": "-"
+        },
+        {
+          "type": "property",
+          "id": "3a2a996aab0b",
+          "properties": [
+            "motive"
+          ],
+          "fallback": "-"
+        },
+        {
+          "type": "property",
+          "id": "c94a0bcb0988",
+          "properties": [
+            "motive"
+          ],
+          "fallback": "-"
+        }
+      ]
+    }
+  ],
+  "default": "Basic 5e Layout",
+  "useDice": true,
+  "renderDice": false,
+  "export": true,
+  "showAdvanced": false,
+  "version": {
+    "major": 2,
+    "minor": 14,
+    "patch": 10
+  },
+  "path": "/",
+  "autoParse": false
+}
