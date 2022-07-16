@@ -13,10 +13,10 @@ If you have listened to any of the videos on this site, you will know I am not f
 
 So I started moving my avatar more and more away from male to female. Trying to play the role of “girl” as well I could, keeping my real life gender out of SL. The issue with that was voice and my desire to create videos. I wanted to make them for nearly a year before I started the process. Once I “came out” though, and realized that very few people cared one way or the other about my RL gender, I was able to direct my attention to the creation of the content you see on this site.
 
-So what does a Buttacwup Pwincess do in Second Life day to day? Most of my time is spent working with, supporting or just chatting about inventory management and shopping (to fuel the inventory managing). I also love landscaping and decorating, though I do not get to do that nearly as often as I would like these days. Exploring and photography also take up a fair bit of time. Taking pictures in Second Life can be a ton of fun as there are so many great sites to see. I am also a total nerd when it comes to Second Life technology. I love learning about viewers, keeping up with changes and sharing that information with others.
+So what does a Buttacwup Pwincess do in Second Life day to day? Most of my time is spent working with, supporting, or just chatting about inventory management and shopping (to fuel the inventory managing). I also love landscaping and decorating, exploring and photography. Taking pictures in Second Life can be a ton of fun as there are so many great sites to see. I am also a total nerd when it comes to Second Life technology. I love learning about viewers, keeping up with changes and sharing that information with others.
 
 Outside of Second Life I am a gamer at heart. From traditional pen and paper RPGs to modern board games and a library of Steam games far to full to ever really be played, it is safe to say that I am a gaming addict. Currently, my most played online games are Black Desert Online, Warframe and Guild Wars 2. You can squeeze No Man's Sky and Tina Tina's Wonderland in their as well. I play and run a number of roleplaying games but my favorite is Numenera and games in the Cypher System.
 
 I love to chat about anything in Second Life and am around quite a lot. Feel free to give me a shout anytime.
 
-Butta
+butta
