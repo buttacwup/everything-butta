@@ -10,12 +10,12 @@ I am in the process of setting this up, and making use of some new tools to help
 
 ## everything butta links
 
-[YouTube](https://www.youtube.com/c/ButtacwupPwincess
-[Twitter](https://twitter.com/buttacwup)
-[newTumbl](https://butta.newtumbl.com/)
-[My Shared Wardrobe](http://us.carlyletheassolutions.com/wardrobe/wardrobe.php?owner=3f54eb6b-d3c1-4634-9075-c0f1636205a0&t=cdcd59cd3a5558de7d2043f4df2f706de321b2ed)
-[Flickr](https://www.flickr.com/photos/buttacwuppwincess/) - Currently not actively using
-[Get It Sorted Discord](https://discord.gg/Z8kUVzh) - This is the unofficial Discord server for CTS Wardrobe
+- [YouTube](https://www.youtube.com/c/ButtacwupPwincess)
+- [Twitter](https://twitter.com/buttacwup)
+- [newTumbl](https://butta.newtumbl.com/)
+- [My Shared Wardrobe](http://us.carlyletheassolutions.com/wardrobe/wardrobe.php?owner=3f54eb6b-d3c1-4634-9075-c0f1636205a0&t=cdcd59cd3a5558de7d2043f4df2f706de321b2ed)
+- [Flickr](https://www.flickr.com/photos/buttacwuppwincess/) - Currently not actively using
+- [Get It Sorted Discord](https://discord.gg/Z8kUVzh) - This is the unofficial Discord server for CTS Wardrobe
 
 ## General Articles
 
