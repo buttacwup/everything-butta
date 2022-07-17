@@ -14,7 +14,7 @@ I want to try and collect up all of the little parks and pools and vistas that p
 
 ## Interesting Spots Around Bellisseria
 
-###  Community Pools
+### Community Pools
 
 
 ### Gardens & Parks
