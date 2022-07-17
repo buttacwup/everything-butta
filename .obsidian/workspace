@@ -120,13 +120,21 @@
                 "file": "index.md"
               }
             }
+          },
+          {
+            "id": "fa2ce8558c7f304c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "215da76049972e53",
   "lastOpenFiles": [
