@@ -12,5 +12,6 @@
   "attachmentFolderPath": "z-assets",
   "communityThemeSortOrder": "download",
   "newLinkFormat": "shortest",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true
 }

@@ -1,5 +1,5 @@
 ---
-date: 2022-17-07
+date: 2022-07-17
 title" Topless (to everyone but me)
 ---
 
@@ -15,4 +15,10 @@ The process for fixing this is easy, and can be quick depending on how many item
 
 ### Change Sub-Folder Names
 
-The core of the problem is using a Folder, or more likely a Sub-Folder, that has  the wrong name. You cannot have a folder/sub-folder named Top or Bottom. The first step is to rename any folders that are
+The core of the problem is using a Folder, or more likely a Sub-Folder, that has  the wrong name. You cannot have a folder/sub-folder named Top or Bottom. The first step is to rename any folders that are Top or Bottom. You can rename it to anything else that isn't exactly one of those two words. For Top you might change it to Shirt or Tops or if you wear a specific mesh body you might use the name of the body in the folder like Legacy Top. For bottom you can change to bottoms or shorts, jeans, pants. This is a bit of a manual process. You can search for the word Top but it will return a lot of results that are not relevant.
+
+### Resetting the Broken Attachment Points
+
+The next step once you have the folder names fixed is to fix the attachment points of the items that may have been switched to Top or Bottom. Once they are switched they will stay that way until switched again. The way to fix these is to right click on the actual attachment, the shirt or pants that was broken, and select **Attach To** from the menu. Select an appropriate attachment point for the item. I suggest using Left Shoulder for tops and Left Hip for bottoms. You can read my [attachment points for clothing](attachment%20points.md) article for suggested attachment points for all clothing items.
+
+If you reset the attachment point as you fix the folders the process goes pretty fast.
