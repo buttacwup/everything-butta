@@ -26,3 +26,9 @@ Learning the basics will be enough for anyone to make use of Wardrobe to better 
 3. [[Setting up RLV]]
 4. [[Uploading Your First Item]]
 5. [[Uploading Your First Outfit]]
+
+## wardrobe advanced
+
+1. Attachment Point System
+2. Clothing Type System
+3. 
