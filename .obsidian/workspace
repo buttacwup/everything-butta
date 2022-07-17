@@ -7,8 +7,12 @@
         "id": "215da76049972e53",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "cts guide/index.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "cts guide/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "cts guide/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "cts guide/index.md"
+              }
             }
           },
           {
@@ -128,8 +136,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2000ea851eea7b14",
+  "active": "215da76049972e53",
   "lastOpenFiles": [
+    "Untitled.md",
     "topless (to everyone but me).md",
     "index.md",
     "cts wardrobe.md",
