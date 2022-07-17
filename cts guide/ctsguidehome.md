@@ -21,14 +21,22 @@ With Wardrobe you can:
 
 Learning the basics will be enough for anyone to make use of Wardrobe to better manage your inventory and take full advantage of Wardrobe to manage what you are wearing.  The five write ups below will walk you through the steps to master those basics.
 
-1. [[The Wardrobe HUD]]
-2. [[The Wardrobe Web Page]]
-3. [[Setting up RLV]]
-4. [[Uploading Your First Item]]
-5. [[Uploading Your First Outfit]]
+1. The Wardrobe HUD
+2. The Wardrobe Web Page
+3. Setting up RLV
+4. Uploading Your First Item
+5. Uploading Your First Outfit
 
 ## wardrobe advanced
 
 1. Attachment Point System
 2. Clothing Type System
-3. 
+3. The Inventory Browser
+4. Worn Outfits and Wear History
+5. The Brand Directory
+
+## wardrobe premium
+
+There is a small set of features that are designated as premium only. The premium subscription is an affordable way to continue to support CTS with the ongoing monthly costs of hosting all of the Wardrobe data for us.
+
+1. Current Body System

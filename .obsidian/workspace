@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cts guide/ctsguidehome.md",
+            "file": "index.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cts guide/ctsguidehome.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cts guide/ctsguidehome.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cts guide/ctsguidehome.md"
+                "file": "index.md"
               }
             }
           },
@@ -138,10 +138,10 @@
   },
   "active": "215da76049972e53",
   "lastOpenFiles": [
+    "cts guide/ctsguidehome.md",
     "index.md",
     "bellisseria awesome.md",
     "cts wardrobe.md",
-    "cts guide/ctsguidehome.md",
     "Untitled.md",
     "topless (to everyone but me).md",
     "attachment points.md",

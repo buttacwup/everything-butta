@@ -22,5 +22,6 @@ I am in the process of setting this up, and making use of some new tools to help
 ## Second Life Guides
 
 - [Definitive Guide to CTS Wardrobe](cts%20guide/ctsguidehome.html)
+- 
 - Using Catznip for Second Life
 - A Simple Guide for Muffins Milkers
