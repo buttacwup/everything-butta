@@ -19,6 +19,6 @@ The core of the problem is using a Folder, or more likely a Sub-Folder, that has
 
 ### Resetting the Broken Attachment Points
 
-The next step once you have the folder names fixed is to fix the attachment points of the items that may have been switched to Top or Bottom. Once they are switched they will stay that way until switched again. The way to fix these is to right click on the actual attachment, the shirt or pants that was broken, and select **Attach To** from the menu. Select an appropriate attachment point for the item. I suggest using Left Shoulder for tops and Left Hip for bottoms. You can read my [attachment points for clothing](attachment%20points.md) article for suggested attachment points for all clothing items.
+The next step once you have the folder names fixed is to fix the attachment points of the items that may have been switched to Top or Bottom. Once they are switched they will stay that way until switched again. The way to fix these is to right click on the actual attachment, the shirt or pants that was broken, and select **Attach To** from the menu. Select an appropriate attachment point for the item. I suggest using Left Shoulder for tops and Left Hip for bottoms. You can read my [attachment points for clothing](attachment%20points.html) article for suggested attachment points for all clothing items.
 
 If you reset the attachment point as you fix the folders the process goes pretty fast.
