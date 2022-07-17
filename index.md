@@ -1,6 +1,7 @@
 ---
 date: 2022-07-16
 title: everything butta!
+layout: default
 ---
 
 Hi everyone!! Welcome to the brand new **everything butta**!
@@ -17,3 +18,9 @@ I am in the process of setting this up, and making use of some new tools to help
 
 - [Creating Support Links](getting%20supported.html)
 - [Topless (to everyone but me)](topless%20(to%20everyone%20but%20me).html)
+
+## Second Life Guides
+
+- [Definitive Guide to CTS Wardrobe](cts%20guide/ctsguidehome.html)
+- Using Catznip for Second Life
+- A Simple Guide for Muffins Milkers
