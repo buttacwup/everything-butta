@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cts guide/ctsguidehome.md",
+            "file": "getting supported.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cts guide/ctsguidehome.md",
+                "file": "getting supported.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cts guide/ctsguidehome.md",
+                "file": "getting supported.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cts guide/ctsguidehome.md"
+                "file": "getting supported.md"
               }
             }
           },
@@ -139,13 +139,13 @@
   "active": "ef18d0cc204908ba",
   "lastOpenFiles": [
     "topless (to everyone but me).md",
+    "cts guide/ctsguidehome.md",
     "cts wardrobe.md",
     "index.md",
     "getting supported.md",
     "2017-03-01-gettingsupported.md.md",
     "attachment points.md",
     "README.md",
-    "cts guide/ctsguidehome.md",
     "bellisseria awesome.md",
     "Untitled.md"
   ]
