@@ -1,9 +1,0 @@
-{
-  "theme": "moonstone",
-  "cssTheme": "Primary",
-  "translucency": false,
-  "enabledCssSnippets": [
-    "its-theme"
-  ],
-  "baseFontSize": 14
-}
