@@ -30,6 +30,6 @@ I am in the process of setting this up, and making use of some new tools to help
 
 ## Second Life Guides
 
-- [Definitive Guide to CTS Wardrobe](cts%20guide/ctsguidehome.html)
+- Definitive Guide to CTS Wardrobe
 - Using the Catznip Viewer for Second Life
 - A Simple Guide for Muffins Milkers

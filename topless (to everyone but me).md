@@ -1,6 +1,7 @@
 ---
 date: 2022-07-17
-title" Topless (to everyone but me)
+title: Topless (to everyone but me)
+layout: page
 ---
 
 # HELP! I am topless to everyone but me!

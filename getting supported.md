@@ -1,6 +1,7 @@
 ---
 date: 2022-07-16
 title: Getting Supported
+layout: page
 ---
 
 # Getting Supported

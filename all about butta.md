@@ -1,6 +1,7 @@
 ---
 date: 2022-07-16
 title: All About Butta
+layout: page
 ---
 
 # All About Butta

@@ -1,6 +1,7 @@
 ---
 date: 2022-07-16
 title: Bellisseria Awesome!
+layout: page
 ---
 
 The new Linden Homes community on the Bellisseria continent is open now and full of active residents. The Linden’s and Mole’s who have been working hard on this new area have done an amazing job of including some spectacular community areas as well as some truly lovely views. And lets not forget all of the amazing work residents are doing to make the community look simply awesome!

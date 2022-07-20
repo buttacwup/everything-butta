@@ -1,6 +1,7 @@
 ---
 date: 2022-07-17
 title: Attachment Points for Clothing
+layout: page
 ---
 
 # Suggested Attachment Points for Clothing
