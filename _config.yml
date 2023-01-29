@@ -28,7 +28,7 @@ twitter_username:
 github_username:  buttacwup
 
 # Build settings
-theme: jekyll-theme-slate
+theme: modernist
 plugins:
   - jekyll-feed
 
