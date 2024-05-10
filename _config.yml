@@ -28,6 +28,7 @@ twitter_username:
 github_username:  buttacwup
 
 # Build settings
+remote_theme: alshedivat/al-folio
 
 # Exclude from processing.
 # The following items will not be processed, by default.
