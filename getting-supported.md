@@ -5,7 +5,7 @@ layout: page
 ---
 # Getting Supported
 
-I love helping people work with, learn and succeed with CTS Wardrobe. It is a fantastic tool with many ways to automate dressing and undressing in Second Life. The downside of such a powerful tool is the learning curve, which leads to many support questions. In many cases, the issue is simply something set up incorrectly.
+I love helping people work with, learn and succeed with [[CTS Wardrobe]]. It is a fantastic tool with many ways to automate dressing and undressing in Second Life. The downside of such a powerful tool is the learning curve, which leads to many support questions. In many cases, the issue is simply something set up incorrectly.
 
 In my experience, seeing and working with your wardrobe is the fastest way to help diagnose and fix an issue. If you ask for assistance, I will likely ask you to provide me with a shared link to your wardrobe. Below are the steps to create that shared link with all the permissions I need (and why they are helpful) to help diagnose your issue.
 
@@ -28,6 +28,7 @@ Once you have set up the link and clicked OK you will see the New Link dialog bo
 1. Right Click the link.
 2. Select **Copy Link** (or Copy Link Address)
 3. Send the link to me in either a Discord or Second Life direct message.
+
 Note: You can also highlight the link, and use CTRL+C/CMD+C on the keyboard to copy. You can update and delete any links you have created from Tools / Manage Links in your Wardrobe._
 
 ![Copy New Link Box](https://i.imgur.com/32cSw3X.png)
