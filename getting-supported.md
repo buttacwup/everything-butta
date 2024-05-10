@@ -13,9 +13,12 @@ In my experience, seeing and working with your wardrobe is the fastest way to he
 
 1. Open your wardrobe in a web browser (not in the in-world cabinet)
 2. Click **Tools** from the menu.
+
 ![tools menu in cts wardrobe](https://everythingbutta.net/wp-content/uploads/2022/06/chrome_jkL9po25bU.png)
-3. Click **Create Link** from the Tools menu drop down.
-4. Setup your Link as shown, then click **OK**.
+
+4. Click **Create Link** from the Tools menu drop down.
+5. Setup your Link as shown, then click **OK**.
+
 ![support settings for shared link](https://everythingbutta.net/wp-content/uploads/2022/06/chrome_wMbciHrxX3.png)
 
 ## Sharing the Link
@@ -28,6 +31,7 @@ Once you have set up the link and clicked OK you will see the New Link dialog bo
 Note: You can also highlight the link, and use CTRL+C/CMD+C on the keyboard to copy. You can update and delete any links you have created from Tools / Manage Links in your Wardrobe._
 
 ![Copy New Link Box](https://i.imgur.com/32cSw3X.png)
+
 ## What each means and why it is helpful
 
 - **Link Name** – this can be anything you want. Use something descriptive so you know why it was created.
