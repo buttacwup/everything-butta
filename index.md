@@ -2,4 +2,4 @@ Welcome to my new spot on the web. This site is mostly about [cts wardrobe](cts-
 
 ## articles
 
-[Getting Supported](gettings-supported.md)
+[Getting Supported](getting-supported.md)
