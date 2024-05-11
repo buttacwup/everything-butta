@@ -14,11 +14,11 @@ The Outfit Creator was released on May 9 2024 as a new premium offering in [CTS 
 
 This is a premium feature and requires additional payment above the core of Wardrobe. You can access the Outfit Creator panel by clicking on **Tools** then **Create New Outfit**.
 
-![[Pasted image 20240511104429.png]]
+![image](images/20240511104429.png)
 
 If you would like the Outfit Creator button to always be visible in Wardrobe. Click **Preferences** then **Adjust Toolbar** and select **Tools: Outfit Creator**. Refresh your Wardrobe page to see the new button.
 
-![[Pasted image 20240511104618.png]]
+![image](images/20240511104618.png)
 
 ### navigating the outfit creator dialog
 
@@ -30,7 +30,7 @@ If you would like the Outfit Creator button to always be visible in Wardrobe. Cl
 6. **Add Layer Button** - See [[#building a new outfit]] section below.
 7. **Save & Close Buttons** - Once you are finished with your outfit, or any updates, click on **Save** to commit your changes. Click Close to **close** the dialog without saving.
 
-![[Pasted image 20240511110014.png]]
+![image](images/20240511110014.png)
 
 ### building a new outfit
 
@@ -48,4 +48,4 @@ In the example below I have 4 pieces of an outfit. A top, shorts, shoes and a sk
 
 The names you use for each layer are customizable. You can choose anything that makes sense to you and matches the outfits use case.
 
-![[Pasted image 20240511120648.png]]
+![image](images/20240511120648.png)
