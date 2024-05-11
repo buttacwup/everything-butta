@@ -26,6 +26,7 @@ I am in the process of setting this up, and making use of some new tools to help
 
 - [Getting Supported](getting-supported.md) - a guide to creating shared links in Wardrobe to help with support issues.
 - [Topless (to everyone but me)](topless-to-all.html)
+- [CTS Outfit Creator](outfit-creator.md) (Premium Feature)
 
 ## Second Life Guides
 

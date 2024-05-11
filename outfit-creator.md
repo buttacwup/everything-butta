@@ -8,15 +8,15 @@ system:
 type:
   - reference
 ---
-The Outfit Creator was released on May 9 2024 as a new premium offering in [[CTS Wardrobe]]. "An outfit is a collection of Wardrobe items that lets you define the entire appearance of your avatar, organized in multiple layers." This new feature also comes with a new [[stripme]] option that will allow others in [[Second Life]] to remove (or re-add) clothing based on the layers defined in the outfit which was created.
+The Outfit Creator was released on May 9 2024 as a new premium offering in [CTS Wardrobe](cts-wardrobe.md). "An outfit is a collection of Wardrobe items that lets you define the entire appearance of your avatar, organized in multiple layers." This new feature also comes with a new [stripme](stripme.md) option that will allow others in [[Second Life]] to remove (or re-add) clothing based on the layers defined in the outfit which was created.
 
 ### enabling outfit creator
 
-This is a premium feature and requires additional payment above the core of Wardrobe. You can access the Outfit Creator panel by clicking on **Tools** | **Create New Outfit**.
+This is a premium feature and requires additional payment above the core of Wardrobe. You can access the Outfit Creator panel by clicking on **Tools** then **Create New Outfit**.
 
-![[Pasted image 20240511104416.png]]
+![[Pasted image 20240511104429.png]]
 
-If you would like the Outfit Creator button to always be visible in Wardrobe. Click **Preferences** | **Adjust Toolbar** and select **Tools: Outfit Creator**. Refresh your Wardrobe page to see the new button.
+If you would like the Outfit Creator button to always be visible in Wardrobe. Click **Preferences** then **Adjust Toolbar** and select **Tools: Outfit Creator**. Refresh your Wardrobe page to see the new button.
 
 ![[Pasted image 20240511104618.png]]
 
@@ -40,8 +40,12 @@ The way the system is currently built you add all of the items you want with the
 
 In the example below I have 4 pieces of an outfit. A top, shorts, shoes and a skin. I have these divided into three layers. 
 
-Layer 1 is fully dressed. This should be made up of all of the items from Wardrobe that you want to wear as part of the outfit. 
+**Layer 1** is fully dressed. This should be made up of all of the items from Wardrobe that you want to wear as part of the outfit. 
 
-Layer 2 is No Top. In this layer I add all of the items
+**Layer 2** is No Top. In this layer I add all of the items from layer one minus the top I want to have removed.
+
+**Layer 3** is Not Bottoms. In this layer I add all of the items from layer 2 minus the shorts I want to have removed.
+
+The names you use for each layer are customizable. You can choose anything that makes sense to you and matches the outfits use case.
 
 ![[Pasted image 20240511120648.png]]
