@@ -52,4 +52,4 @@ In the example below I have 4 pieces of an outfit. A top, shorts, shoes and a sk
 
 The names you use for each layer are customizable. You can choose anything that makes sense to you and matches the outfits use case.
 
-![[Pasted image 20240518073857.png]]
+![[images/20240518073857.png]]
