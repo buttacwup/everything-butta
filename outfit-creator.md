@@ -36,16 +36,20 @@ If you would like the Outfit Creator button to always be visible in Wardrobe. Cl
 
 The Outfit Creator allows you to build an outfit using different layers. These layers are worn when you put on an outfit. The order of the layers can be used by you or others through the CTS Wardrobe web interface to dress or undress the avatar layer by layer. It can also be used with the new stripme tool to allow anyone to do the same simply by clicking your avatar.
 
-The way the system is currently built you add all of the items you want with the outfit to the default layer (usually the top most layer) and then in each subsequent lower layer you remove the items that you want to be removed.
+The way the system is built you add all of the items you want with the outfit to the default layer (usually the top most layer), you duplicate the layer and remove from it anything you want to take off. Repeat that process until you have the complete set of additions and removals.
 
 In the example below I have 4 pieces of an outfit. A top, shorts, shoes and a skin. I have these divided into three layers. 
 
-**Layer 1** is fully dressed. This should be made up of all of the items from Wardrobe that you want to wear as part of the outfit. 
+**Layer 1** is fully dressed. This generally should be made up of all of the items from Wardrobe that you want to wear as part of the outfit. 
 
-**Layer 2** is No Top. In this layer I add all of the items from layer one minus the top I want to have removed.
+**Layer 2** is set to remove my shoes. As everyone knows trying to pull off your jeans without removing your shoes first is just not worth the effort.
 
-**Layer 3** is Not Bottoms. In this layer I add all of the items from layer 2 minus the shorts I want to have removed.
+**Layer 3** is set to remove my jeans. In this outfit I am wearing a set BOM panties, but you could just as easily add a pair of mesh panties at the same time you remove your jeans.
+
+**Layer 4** will remove my top and leave me nearly undressed. If I had added mesh panties in the step above I might add one additional layer below this to remove them.
+
+**Layer 5** is my naked layer. You can set the stripme function to to disallow people stripping you naked. Naked will be the final layer. Adding the naked layer allows other people the chance to strip all of the higher layers.
 
 The names you use for each layer are customizable. You can choose anything that makes sense to you and matches the outfits use case.
 
-![image](images/20240511120648.png)
+![[Pasted image 20240518073857.png]]
